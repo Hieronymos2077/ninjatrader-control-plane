@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.nt8skill/
+captures/
+*.db
+
+
+logs/
+captures/
