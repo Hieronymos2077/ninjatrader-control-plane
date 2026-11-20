@@ -122,3 +122,15 @@ The interesting reading is not only the code.
 - [research/AUDIT_REPORT.md](research/AUDIT_REPORT.md) then [research/AUDIT_BASELINE_STATUS.md](research/AUDIT_BASELINE_STATUS.md): an adversarial audit of an earlier build of this code that found concrete bugs with file and line citations (wrong hotkeys, argument name mismatches between the catalog and the backends, invalid NinjaTrader API calls in the C# AddOn), followed by the review that tracks which of them were actually fixed. They are in the repo on purpose. Reading a project's own critical audit tells you more than reading its feature list.
 - [research/PLATFORM_API_OPTIONS.md](research/PLATFORM_API_OPTIONS.md): why the backend mix is what it is, compared against the other six ways to automate this platform.
 - [SKILL.md](SKILL.md): the agent facing interface. This control plane was built to be driven by an AI coding agent, and this file is the contract that agent reads.
+
+---
+
+## Contact
+
+Built by **Alorny AI**. For custom AI agents, automation systems or websites, or to hire us, get in touch:
+
+- Website: [alorny.cloud](https://alorny.cloud)
+- Email: [contact@alorny.cloud](mailto:contact@alorny.cloud)
+- WhatsApp: [+263 71 441 2862](https://wa.me/263714412862)
+- Phone: [+263 71 441 2862](tel:+263714412862)
+- GitHub: [@Hieronymos2077](https://github.com/Hieronymos2077)
